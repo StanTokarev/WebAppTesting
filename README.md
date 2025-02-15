@@ -4,6 +4,7 @@
 ## [Тест план](https://docs.google.com/spreadsheets/d/1nh5fPynGT30XWn77mzOJLZXpXhWm4Graaym8up7-iyI/)
 Создаю веб страницу с тестовыми артефактами для приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
 ## [Тестовые артефакты для приложения qa.demoshopping.ru](https://stantokarev.tiiny.site/)
+Создание Чек-листа, который включает тестирование разделов: Регистрация, Логин, Каталог, Корзина и Оплата приложения qa.demoshopping.ru:
 ## [Чек-лист для тестирования корзины и оплаты](https://docs.google.com/spreadsheets/d/1zwhsdN667Qrc3eg_2llk7Wu7GYBM7IAjVa9FMN-EVSE/)
 ## [Тест-кейсы для тестирования корзины и оплаты, QASE](https://app.qase.io/project/G9?suite=163)
 ## [Тест-кейсы для тестирования корзины и оплаты из QASE, PDF](https://github.com/StanTokarev/web/blob/main/Stan%20Tokarev%20-%20Test%20Cases%20for%20cart%20and%20payment.pdf)
