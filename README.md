@@ -6,9 +6,9 @@
 ### [Тестовые артефакты (stantokarev.tiiny.site)](https://stantokarev.tiiny.site/)
 Создание Чек-листа, который включает тестирование разделов: Регистрация, Логин, Каталог, Корзина и Оплата приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
 ### [Чек-лист для тестирования корзины и оплаты (XLSX)](https://docs.google.com/spreadsheets/d/1zwhsdN667Qrc3eg_2llk7Wu7GYBM7IAjVa9FMN-EVSE/)
-Создание 10 тест-кейсов для раздела Корзина и 10 тест-кейсов для раздела Оплата приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
+Создание 10 тест-кейсов для раздела Корзина и 10 тест-кейсов для раздела Оплата приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a> в QASE:
 ### [Тест-кейсы для тестирования корзины и оплаты из QASE (PDF)](https://github.com/StanTokarev/web/blob/main/Stan%20Tokarev%20-%20Test%20Cases%20for%20cart%20and%20payment.pdf)
-Отчет о дефекте и тестовый прогон тест-кейсов приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
+Отчет о дефекте и тестовый прогон тест-кейсов приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a> в QASE, YouTrack:
 ### [Тестовый прогон для корзины и оплаты из QASE (PDF)](https://github.com/StanTokarev/web/blob/main/Stan%20Tokarev%20-%20Test%20Runs%20for%20test%20cases%20cart%20and%20payment%20from%20QASE.pdf)
 ### [Отчеты о дефекте для корзины и оплаты из YouTrack (XLSX)](https://github.com/StanTokarev/web/blob/main/Stan%20Tokarev%20-%20Bug%20Reports%20for%20test%20cases%20cart%20and%20payment%20from%20YouTrack.xlsx)
 Изменяю количество товаров в корзине: пользователь отправляет 2 товара в корзину, перехватываю запрос и изменяю на 500:
