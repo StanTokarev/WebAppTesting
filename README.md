@@ -3,7 +3,7 @@
 Создаю тест-план для тестирования приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
 ### [Тест план (XLSX)](https://docs.google.com/spreadsheets/d/1nh5fPynGT30XWn77mzOJLZXpXhWm4Graaym8up7-iyI/)
 Создаю веб страницу с тестовыми артефактами для приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
-### [Тестовые артефакты для приложения qa.demoshopping.ru (stantokarev.tiiny.site)](https://stantokarev.tiiny.site/)
+### [Тестовые артефакты (stantokarev.tiiny.site)](https://stantokarev.tiiny.site/)
 Создание Чек-листа, который включает тестирование разделов: Регистрация, Логин, Каталог, Корзина и Оплата приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
 ### [Чек-лист для тестирования корзины и оплаты (XLSX)](https://docs.google.com/spreadsheets/d/1zwhsdN667Qrc3eg_2llk7Wu7GYBM7IAjVa9FMN-EVSE/)
 Создание 10 тест-кейсов для раздела Корзина и 10 тест-кейсов для раздела Оплата приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
