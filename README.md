@@ -20,6 +20,6 @@
 
 ## capital.com
 Создание Чек-листа веб-приложения <a href="https://www.capital.com/">capital.com</a>:
-#### [Чек-лист для тестирования корзины и оплаты (XLSX)](https://docs.google.com/spreadsheets/d/1zwhsdN667Qrc3eg_2llk7Wu7GYBM7IAjVa9FMN-EVSE/)
+#### [Чек-лист для тестирования веб-приложения (XLSX)](https://docs.google.com/spreadsheets/d/1tUeLT82sc7jXuTw3jAAzIHYGIzERVfLW/edit?usp=sharing&ouid=102925613912026584866&rtpof=true&sd=true)
 Создание Чек-листа, который включает тестирование Меню веб-приложения <a href="https://www.capital.com/">capital.com</a>:
-#### [Чек-лист для тестирования корзины и оплаты (XLSX)](https://docs.google.com/spreadsheets/d/1zwhsdN667Qrc3eg_2llk7Wu7GYBM7IAjVa9FMN-EVSE/)
+#### [Чек-лист для тестирования Меню веб-приложения (XLSX)](https://docs.google.com/spreadsheets/d/1VrSEOSych6FsGhUwQB8oUaBn5iXlFZ0W/edit?usp=sharing&ouid=102925613912026584866&rtpof=true&sd=true)
