@@ -1,5 +1,5 @@
 ## "Тестирование веб-приложений"
-### qa.demoshopping.ru
+## qa.demoshopping.ru
 Создаю тест-план для тестирования приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
 #### [Тест план (XLSX)](https://docs.google.com/spreadsheets/d/1nh5fPynGT30XWn77mzOJLZXpXhWm4Graaym8up7-iyI/)
 Создаю веб страницу с тестовыми артефактами для приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
@@ -17,3 +17,9 @@
 #### [Charles Proxy, При обращении к demoshopping сервер вернет статус-код 403 (MP4)](https://github.com/StanTokarev/web/blob/main/2.%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80.%20%D0%9F%D1%80%D0%B8%20%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BA%20demoshopping%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20%D0%B2%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81-%D0%BA%D0%BE%D0%B4%20403.mp4)
 Перенаправляю запрос с с Prod version <a href="https://demoshopping.ru/">demoshopping.ru</a> на QA version <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
 #### [Charles Proxy, Перенаправить запрос с Prod demoshopping на QA qa demoshopping (MP4)](https://github.com/StanTokarev/web/blob/main/3.%20%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80.%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%20%D1%81%20Prod%20%D0%BD%D0%B0%20QA%20.mp4)
+
+## capital.com
+Создание Чек-листа веб-приложения <a href="https://www.capital.com/">capital.com</a>:
+#### [Чек-лист для тестирования корзины и оплаты (XLSX)](https://docs.google.com/spreadsheets/d/1zwhsdN667Qrc3eg_2llk7Wu7GYBM7IAjVa9FMN-EVSE/)
+Создание Чек-листа, который включает тестирование Меню веб-приложения <a href="https://www.capital.com/">capital.com</a>:
+#### [Чек-лист для тестирования корзины и оплаты (XLSX)](https://docs.google.com/spreadsheets/d/1zwhsdN667Qrc3eg_2llk7Wu7GYBM7IAjVa9FMN-EVSE/)
