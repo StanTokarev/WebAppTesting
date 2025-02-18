@@ -1,4 +1,4 @@
-## "Тестирование веб-приложений"
+# "Тестирование веб-приложений"
 ## qa.demoshopping.ru
 Создаю тест-план для тестирования приложения <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>:
 #### [Тест план (XLSX)](https://docs.google.com/spreadsheets/d/1nh5fPynGT30XWn77mzOJLZXpXhWm4Graaym8up7-iyI/)
